@@ -10,3 +10,4 @@ This project is available under CC0 1.0 Universal. In short:
 - It's **FREE** for personal and commercial use;
 - Reselling the file, or even the individual items inside the file is *not allowed*.
 
+
